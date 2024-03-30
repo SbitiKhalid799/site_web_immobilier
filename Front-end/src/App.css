@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Navigation */
+nav{
+    position: fixed;
+    top :20px;
+    width: 90%;
+    background-color: red;
+    height: 55px;
+    border-radius: 500px;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav ul li{
+    margin: 0 10px;
+}
+
